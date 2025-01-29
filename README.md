@@ -28,11 +28,11 @@ git push origin YOUR_BRANCH
 ##### ✅ Task List  
 
 
-- [ ] Task 1: Complete Git Tutorial 
-- [ ] Task 2: Add Screenshots to `README.md`  
-- [ ] Task 3: Modify `.html` File  
-- [ ] Task 4: Merge latest changes  
-- [ ] Task 5: Review pull requests 
+- [X] Task 1: Complete Git Tutorial 
+- [X] Task 2: Add Screenshots to `README.md`  
+- [X] Task 3: Modify `.html` File  
+- [X] Task 4: Merge latest changes  
+- [X] Task 5: Review pull requests 
 
 ##### ✅ Task 2 Screenshots:
 ![GitTutorial1](https://github.com/user-attachments/assets/af6620c6-dd6d-4347-b99a-69aef2ac02ce)
