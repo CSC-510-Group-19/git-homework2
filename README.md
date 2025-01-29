@@ -28,15 +28,15 @@ git push origin YOUR_BRANCH
 ##### ✅ Task List  
 
 
-- [ ] Task 1: Complete Git Tutorial 
-- [ ] Task 2: Add Screenshots to `README.md`  
-- [ ] Task 3: Modify `.html` File  
-- [ ] Task 4: Merge latest changes  
-- [ ] Task 5: Review pull requests 
+- [X] Task 1: Complete Git Tutorial 
+- [X] Task 2: Add Screenshots to `README.md`  
+- [X] Task 3: Modify `.html` File  
+- [X] Task 4: Merge latest changes  
+- [X] Task 5: Review pull requests 
 
 
 This repository is to demonstrate the usage of Git commands for project development.
 
 Eleanor Maye Git Tutorial Screenshots
 ![edmaye Git tutorial 1](git_tutorial_1_edmaye.jpg)
-![edmaye Git tutorial 2](git_tutorial_2_edmaye.jpg)
+![edmaye Git tutorial 2](git-tutorial_2_edmaye.jpg)
