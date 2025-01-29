@@ -37,3 +37,6 @@ git push origin YOUR_BRANCH
 
 This repository is to demonstrate the usage of Git commands for project development.
 
+Eleanor Maye Git Tutorial Screenshots
+![edmaye Git tutorial 1](git_tutorial_1_edmaye.jpg)
+![edmaye Git tutorial 2](git_tutorial_2_edmaye.jpg)
