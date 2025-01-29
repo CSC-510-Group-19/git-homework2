@@ -34,6 +34,10 @@ git push origin YOUR_BRANCH
 - [ ] Task 4: Merge latest changes  
 - [ ] Task 5: Review pull requests 
 
+##### ✅ Task 2 Screenshots:
+![GitTutorial1](https://github.com/user-attachments/assets/af6620c6-dd6d-4347-b99a-69aef2ac02ce)
+![GitTutorial2](https://github.com/user-attachments/assets/5d0353ed-c6ec-44ba-ae72-e117723d6e7d)
+
 
 This repository is to demonstrate the usage of Git commands for project development.
 
