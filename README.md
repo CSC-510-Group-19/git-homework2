@@ -9,9 +9,6 @@
 ## 📝 Introduction
 
 
-![Project Screenshot](path/to/your/image.png)
-
-
 ```sh
 # Stage all changes for commit
 git add .
